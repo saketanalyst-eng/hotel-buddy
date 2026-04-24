@@ -67,20 +67,21 @@ hotel-rag-system/
      I created a dataset of 10 hotels with realistic information:
 
    📊 What's In the Hotel Data?
-I created a dataset of 10 hotels with realistic information:
+        I created a dataset of 10 hotels with realistic information:
 
-Hotel Name	Type	Key Features
-Seaside Paradise Resort	Beachfront	Free WiFi, breakfast, pool, spa
-City Central Hotel	Business	Free WiFi, business center, restaurant
-Sunny Garden Inn	Budget	Free breakfast, garden, pet friendly
-Luxury Grand Plaza	Luxury	Infinity pool, spa, premium service
-Budget Stay Hostel	Budget	Shared kitchen, lockers, cheap
-Ocean View Villas	Luxury	Private pool, beach access, kitchen
-Airport Transit Hotel	Convenience	24/7 service, shuttle, soundproof
-Mountain View Retreat	Nature	Hiking, bonfire, mountain views
-Family Fun Resort	Family	Kids pool, playground, game room
-Business Elite Suites	Premium	Meeting rooms, business lounge
-Each hotel has:
+           Hotel Name	         Type	           Key Features
+          Seaside Paradise     Resort	          Beachfront	Free WiFi, breakfast, pool, spa
+          City Central Hotel	  Business	        Free WiFi, business center, restaurant
+        Sunny Garden Inn	      Budget	           Free breakfast, garden, pet friendly
+        Luxury Grand Plaza	    Luxury            Infinity pool, spa, premium service
+         Budget Stay Hostel	   Budget	           Shared kitchen, lockers, cheap
+         Ocean View Villas	    Luxury	           Private pool, beach access, kitchen
+         Airport Transit Hotel	Convenience	      24/7 service, shuttle, soundproof
+         Mountain View Retreat	Nature	          Hiking, bonfire, mountain views
+         Family Fun Resort    	Family	          Kids pool, playground, game room
+         Business Elite Suites	 Premium	         Meeting rooms, business lounge
+
+     Each hotel has:
 
 Full description
 
@@ -94,15 +95,16 @@ Pet policies
 
 Guest reviews
 
+
 **📈 Performance & Accuracy**
     
    For this you can run 
      evaluate_rag.py
 
 **  Why Not 100%?**
-   Some hotels have similar names or features
-   Different phrasing of same amenity (e.g., "free internet" vs "WiFi included")
-   Multiple policy types across documents
+    Some hotels have similar names or features
+    Different phrasing of same amenity (e.g., "free internet" vs "WiFi included")
+    Multiple policy types across documents
 
 **🛡️ How We Prevent Hallucination (Making Things Up)****
 
@@ -160,10 +162,13 @@ data/embeddings.npy                Vector numbers (machines understand)
 data/vectorizer.pkl	               Tool to convert questions to vectors
 outputs/rag_results.json	          Answers to test questions
 outputs/evaluation_results.json    	Performance scores
+
 **🙏 Credits & Acknowledgments**
     Ollama for making local LLMs easy
     Scikit-learn for vector search tools
     FAISS (optional) for fast similarity search
+
+
 **📄 License**
     This project is for learning purposes. Feel free to use, modify, and share.
 
