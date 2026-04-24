@@ -146,14 +146,17 @@ Guest reviews
 
 **🚀 How to Extend This System**
    Want to make it better? Here are ideas:
-       Add More Hotels
-       Just add new hotels to hotels_data in step1_generate_dataset.py
-       Use Better Embeddings
-       Replace TF-IDF with Sentence-BERT (better semantic understanding):
-       Add a Web Interface
-       Use Streamlit to make a chat UI:
-       Connect to Real Data
-       Scrape hotel websites or use APIs (but check terms of service)
+       
+       1.Add More Hotels
+       2.Just add new hotels to hotels_data in step1_generate_dataset.py
+       3.Use Better Embeddings
+       4.Replace TF-IDF with Sentence-BERT (better semantic understanding):
+       5.Add a Web Interface
+       6.Use Streamlit to make a chat UI:
+       7.Connect to Real Data
+       8.Scrape hotel websites or use APIs (but check terms of service)
+
+
 **📁 Files You'll Get After Running**
   File	                          What's Inside
 data/raw_docs.txt	                 Original 55 hotel documents
@@ -162,6 +165,8 @@ data/embeddings.npy                Vector numbers (machines understand)
 data/vectorizer.pkl	               Tool to convert questions to vectors
 outputs/rag_results.json	          Answers to test questions
 outputs/evaluation_results.json    	Performance scores
+
+
 
 **🙏 Credits & Acknowledgments**
     Ollama for making local LLMs easy
