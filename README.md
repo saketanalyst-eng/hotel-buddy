@@ -158,20 +158,20 @@ Guest reviews
 
 
 **📁 Files You'll Get After Running**
-  File	                          What's Inside
-data/raw_docs.txt	                 Original 55 hotel documents
-data/chunks.json	                 Text split into searchable pieces
-data/embeddings.npy                Vector numbers (machines understand)
-data/vectorizer.pkl	               Tool to convert questions to vectors
-outputs/rag_results.json	          Answers to test questions
-outputs/evaluation_results.json    	Performance scores
+    File	                          What's Inside
+ 1.data/raw_docs.txt	                 Original 55 hotel documents
+ 2.data/chunks.json	                  Text split into searchable pieces
+ 3.data/embeddings.npy                Vector numbers (machines understand)
+ 4.data/vectorizer.pkl	               Tool to convert questions to vectors
+ 5.outputs/rag_results.json	          Answers to test questions
+ 6.outputs/evaluation_results.json    	Performance scores
 
 
 
 **🙏 Credits & Acknowledgments**
-    Ollama for making local LLMs easy
-    Scikit-learn for vector search tools
-    FAISS (optional) for fast similarity search
+    *Ollama for making local LLMs easy
+    * Scikit-learn for vector search tools
+    *FAISS (optional) for fast similarity search
 
 
 **📄 License**
