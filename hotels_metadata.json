@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Seaside Paradise Resort",
+    "location": "Coastal Road, Malibu Beach",
+    "distance_to_beach": "50 meters",
+    "rating": 4.7,
+    "amenities": [
+      "free WiFi",
+      "breakfast buffet",
+      "pool",
+      "spa",
+      "parking",
+      "beach access"
+    ],
+    "policies": {
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation": "Free cancellation up to 48 hours before check-in",
+      "pet_policy": "Pets not allowed"
+    },
+    "reviews": [
+      "Amazing beach view from the room!",
+      "Great breakfast selection",
+      "Staff was very friendly"
+    ],
+    "description": "Luxury beachfront resort with stunning ocean views. Located just steps from Malibu Beach."
+  },
+  {
+    "name": "City Central Hotel",
+    "location": "Downtown, 5th Avenue",
+    "distance_to_beach": "15 km",
+    "rating": 4.2,
+    "amenities": [
+      "free WiFi",
+      "business center",
+      "fitness center",
+      "restaurant",
+      "room service",
+      "free breakfast"
+    ],
+    "policies": {
+      "check_in": "2:00 PM",
+      "check_out": "12:00 PM",
+      "cancellation": "Free cancellation up to 24 hours before check-in",
+      "pet_policy": "Small pets allowed ($50 fee)"
+    },
+    "reviews": [
+      "Perfect for business travelers",
+      "Clean rooms, good location",
+      "Breakfast could be better"
+    ],
+    "description": "Modern hotel in the heart of downtown. Close to shopping and business district."
+  },
+  {
+    "name": "Sunny Garden Inn",
+    "location": "Suburb Heights, Park Street",
+    "distance_to_beach": "8 km",
+    "rating": 4.5,
+    "amenities": [
+      "free WiFi",
+      "free breakfast",
+      "garden",
+      "bicycle rental",
+      "free parking"
+    ],
+    "policies": {
+      "check_in": "1:00 PM",
+      "check_out": "10:00 AM",
+      "cancellation": "Free cancellation up to 7 days before check-in",
+      "pet_policy": "Pets allowed (no extra fee)"
+    },
+    "reviews": [
+      "Beautiful garden and peaceful atmosphere",
+      "Very reasonable prices",
+      "Friendly hosts"
+    ],
+    "description": "Cozy garden hotel with home-like atmosphere. Perfect for families and nature lovers."
+  },
+  {
+    "name": "Luxury Grand Plaza",
+    "location": "Waterfront Drive, Marina Bay",
+    "distance_to_beach": "200 meters",
+    "rating": 4.9,
+    "amenities": [
+      "free high-speed WiFi",
+      "premium breakfast",
+      "infinity pool",
+      "luxury spa",
+      "valet parking",
+      "concierge",
+      "beach shuttle"
+    ],
+    "policies": {
+      "check_in": "4:00 PM",
+      "check_out": "12:00 PM",
+      "cancellation": "No cancellation within 14 days",
+      "pet_policy": "Service animals only"
+    },
+    "reviews": [
+      "Absolute luxury experience!",
+      "Best hotel I've ever stayed at",
+      "Amazing infinity pool overlooking the bay"
+    ],
+    "description": "5-star luxury hotel with world-class amenities. Prime waterfront location."
+  },
+  {
+    "name": "Budget Stay Hostel",
+    "location": "Backpacker Lane, Near Train Station",
+    "distance_to_beach": "12 km",
+    "rating": 4.0,
+    "amenities": [
+      "free WiFi",
+      "shared kitchen",
+      "lockers",
+      "common lounge",
+      "free coffee"
+    ],
+    "policies": {
+      "check_in": "11:00 AM",
+      "check_out": "10:00 AM",
+      "cancellation": "Free cancellation up to 24 hours before check-in",
+      "pet_policy": "No pets allowed"
+    },
+    "reviews": [
+      "Great value for money",
+      "Clean and friendly",
+      "Perfect for backpackers"
+    ],
+    "description": "Affordable accommodation for budget travelers. Social atmosphere and clean facilities."
+  },
+  {
+    "name": "Ocean View Villas",
+    "location": "Cliffside Road, Pacific Heights",
+    "distance_to_beach": "100 meters",
+    "rating": 4.8,
+    "amenities": [
+      "free WiFi",
+      "private pool",
+      "beach access",
+      "parking",
+      "fully equipped kitchen",
+      "BBQ area"
+    ],
+    "policies": {
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation": "Free cancellation up to 30 days before check-in",
+      "pet_policy": "Pets allowed with deposit"
+    },
+    "reviews": [
+      "Breathtaking ocean views",
+      "Perfect for groups",
+      "Very private and quiet"
+    ],
+    "description": "Luxury private villas perched on the cliffs. Each villa has panoramic ocean views."
+  },
+  {
+    "name": "Airport Transit Hotel",
+    "location": "Terminal Road, Airport Area",
+    "distance_to_beach": "20 km",
+    "rating": 4.1,
+    "amenities": [
+      "free WiFi",
+      "24-hour reception",
+      "shuttle service",
+      "basic breakfast",
+      "soundproof rooms"
+    ],
+    "policies": {
+      "check_in": "Flexible (any time)",
+      "check_out": "Flexible (any time)",
+      "cancellation": "Free cancellation up to 6 hours before check-in",
+      "pet_policy": "Pets not allowed"
+    },
+    "reviews": [
+      "Convenient for early flights",
+      "Basic but clean",
+      "Shuttle service is reliable"
+    ],
+    "description": "Convenient airport hotel perfect for transit passengers. 24/7 service and airport shuttle."
+  },
+  {
+    "name": "Mountain View Retreat",
+    "location": "Hill Top Road, Pine Forest",
+    "distance_to_beach": "25 km",
+    "rating": 4.6,
+    "amenities": [
+      "free WiFi",
+      "breakfast included",
+      "hiking trails",
+      "bonfire area",
+      "mountain views"
+    ],
+    "policies": {
+      "check_in": "2:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation": "Free cancellation up to 14 days before check-in",
+      "pet_policy": "Pets allowed"
+    },
+    "reviews": [
+      "Stunning mountain scenery",
+      "Great hiking opportunities",
+      "Cozy and warm atmosphere"
+    ],
+    "description": "Peaceful retreat in the mountains. Perfect for nature enthusiasts and hikers."
+  },
+  {
+    "name": "Family Fun Resort",
+    "location": "Resort Drive, Kid's Paradise",
+    "distance_to_beach": "5 km",
+    "rating": 4.4,
+    "amenities": [
+      "free WiFi",
+      "free breakfast",
+      "children's pool",
+      "playground",
+      "family rooms",
+      "game room",
+      "free parking"
+    ],
+    "policies": {
+      "check_in": "3:00 PM",
+      "check_out": "11:00 AM",
+      "cancellation": "Free cancellation up to 72 hours before check-in",
+      "pet_policy": "No pets"
+    },
+    "reviews": [
+      "Kids loved the playground",
+      "Very family-friendly",
+      "Great activities for children"
+    ],
+    "description": "Resort designed especially for families. Kids stay free and plenty of activities."
+  },
+  {
+    "name": "Business Elite Suites",
+    "location": "Financial District, Tower Road",
+    "distance_to_beach": "18 km",
+    "rating": 4.7,
+    "amenities": [
+      "free high-speed WiFi",
+      "business lounge",
+      "meeting rooms",
+      "free breakfast",
+      "airport transfer",
+      "concierge"
+    ],
+    "policies": {
+      "check_in": "12:00 PM",
+      "check_out": "1:00 PM",
+      "cancellation": "Free cancellation up to 72 hours before check-in",
+      "pet_policy": "No pets"
+    },
+    "reviews": [
+      "Perfect for business trips",
+      "Excellent workspace facilities",
+      "Fast reliable WiFi"
+    ],
+    "description": "Premium business hotel with dedicated workspace areas. Located in the financial hub."
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "query": "Which hotels have free WiFi?",
+    "answer": "⚠️ Ollama not available. Using fallback mode.\n\nBased on retrieved information:\n\n• Budget Stay Hostel: HOTEL: Budget Stay Hostel AMENITIES: free WiFi, shared kitchen, lockers, common lounge, free coffee...\n• Sunny Garden Inn: HOTEL: Sunny Garden Inn AMENITIES: free WiFi, free breakfast, garden, bicycle rental, free parking...\n• Family Fun Resort: HOTEL: Family Fun Resort AMENITIES: free WiFi, free breakfast, children's pool, playground, family rooms, game room, free parking...",
+    "contexts": [
+      {
+        "text": "HOTEL: Budget Stay Hostel AMENITIES: free WiFi, shared kitchen, lockers, common lounge, free coffee",
+        "hotel": "Budget Stay Hostel",
+        "similarity": 0.34748271220329674,
+        "doc_id": 43,
+        "preview": "HOTEL: Budget Stay Hostel AMENITIES: free WiFi, shared kitchen, lockers, common lounge, free coffee"
+      },
+      {
+        "text": "HOTEL: Sunny Garden Inn AMENITIES: free WiFi, free breakfast, garden, bicycle rental, free parking",
+        "hotel": "Sunny Garden Inn",
+        "similarity": 0.32154323893382186,
+        "doc_id": 23,
+        "preview": "HOTEL: Sunny Garden Inn AMENITIES: free WiFi, free breakfast, garden, bicycle rental, free parking"
+      },
+      {
+        "text": "HOTEL: Family Fun Resort AMENITIES: free WiFi, free breakfast, children's pool, playground, family rooms, game room, free parking",
+        "hotel": "Family Fun Resort",
+        "similarity": 0.2842526785322674,
+        "doc_id": 83,
+        "preview": "HOTEL: Family Fun Resort AMENITIES: free WiFi, free breakfast, children's pool, playground, family rooms, game room, free parking"
+      }
+    ],
+    "retrieved_hotels": [
+      "Sunny Garden Inn",
+      "Budget Stay Hostel",
+      "Family Fun Resort"
+    ]
+  },
+  {
+    "query": "What is the cancellation policy?",
+    "answer": "⚠️ Ollama not available. Using fallback mode.\n\nBased on retrieved information:\n\n• General: CANCELLATION POLICY STANDARD: Most hotels offer free cancellation. Specific terms vary by hotel. Always check individual hotel policies....\n• Seaside Paradise Resort: HOTEL: Seaside Paradise Resort POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 48 hours before check-in - ...\n• Ocean View Villas: HOTEL: Ocean View Villas POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 30 days before check-in - Pet Pol...",
+    "contexts": [
+      {
+        "text": "CANCELLATION POLICY STANDARD: Most hotels offer free cancellation. Specific terms vary by hotel. Always check individual hotel policies.",
+        "hotel": "General",
+        "similarity": 0.41301283226964736,
+        "doc_id": 101,
+        "preview": "CANCELLATION POLICY STANDARD: Most hotels offer free cancellation. Specific terms vary by hotel. Always check individual hotel policies."
+      },
+      {
+        "text": "HOTEL: Seaside Paradise Resort POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 48 hours before check-in - Pet Policy: Pets not allowed",
+        "hotel": "Seaside Paradise Resort",
+        "similarity": 0.2813937876864467,
+        "doc_id": 5,
+        "preview": "HOTEL: Seaside Paradise Resort POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 48 hours before check-in - Pet Policy: Pets not allowed"
+      },
+      {
+        "text": "HOTEL: Ocean View Villas POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 30 days before check-in - Pet Policy: Pets allowed with deposit",
+        "hotel": "Ocean View Villas",
+        "similarity": 0.27867484890920496,
+        "doc_id": 55,
+        "preview": "HOTEL: Ocean View Villas POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 30 days before check-in - Pet Policy: Pets allowed with deposit"
+      }
+    ],
+    "retrieved_hotels": [
+      "Seaside Paradise Resort",
+      "General",
+      "Ocean View Villas"
+    ]
+  },
+  {
+    "query": "Do any hotels allow pets?",
+    "answer": "⚠️ Ollama not available. Using fallback mode.\n\nBased on retrieved information:\n\n• General: PET POLICY OVERVIEW: Pet policies vary. Some hotels allow pets with fees, others are pet-free except service animals....\n• General: BREAKFAST INFORMATION: Many hotels offer complimentary breakfast. Types include continental, buffet, and made-to-order options....\n• General: CANCELLATION POLICY STANDARD: Most hotels offer free cancellation. Specific terms vary by hotel. Always check individual hotel policies....",
+    "contexts": [
+      {
+        "text": "PET POLICY OVERVIEW: Pet policies vary. Some hotels allow pets with fees, others are pet-free except service animals.",
+        "hotel": "General",
+        "similarity": 0.449194147056346,
+        "doc_id": 105,
+        "preview": "PET POLICY OVERVIEW: Pet policies vary. Some hotels allow pets with fees, others are pet-free except service animals."
+      },
+      {
+        "text": "BREAKFAST INFORMATION: Many hotels offer complimentary breakfast. Types include continental, buffet, and made-to-order options.",
+        "hotel": "General",
+        "similarity": 0.12742281830424323,
+        "doc_id": 107,
+        "preview": "BREAKFAST INFORMATION: Many hotels offer complimentary breakfast. Types include continental, buffet, and made-to-order options."
+      },
+      {
+        "text": "CANCELLATION POLICY STANDARD: Most hotels offer free cancellation. Specific terms vary by hotel. Always check individual hotel policies.",
+        "hotel": "General",
+        "similarity": 0.11531621177826425,
+        "doc_id": 101,
+        "preview": "CANCELLATION POLICY STANDARD: Most hotels offer free cancellation. Specific terms vary by hotel. Always check individual hotel policies."
+      }
+    ],
+    "retrieved_hotels": [
+      "General"
+    ]
+  },
+  {
+    "query": "Suggest hotels near the beach",
+    "answer": "⚠️ Ollama not available. Using fallback mode.\n\nBased on retrieved information:\n\n• General: BEACH ACCESS: Hotels listed as 'near beach' are typically within 500 meters. Beach access may be public or private....\n• Budget Stay Hostel: HOTEL: Budget Stay Hostel LOCATION DETAILS: Address: Backpacker Lane, Near Train Station Nearby: Beach is 12 km away...\n• General: BREAKFAST INFORMATION: Many hotels offer complimentary breakfast. Types include continental, buffet, and made-to-order options....",
+    "contexts": [
+      {
+        "text": "BEACH ACCESS: Hotels listed as 'near beach' are typically within 500 meters. Beach access may be public or private.",
+        "hotel": "General",
+        "similarity": 0.4702106270308894,
+        "doc_id": 109,
+        "preview": "BEACH ACCESS: Hotels listed as 'near beach' are typically within 500 meters. Beach access may be public or private."
+      },
+      {
+        "text": "HOTEL: Budget Stay Hostel LOCATION DETAILS: Address: Backpacker Lane, Near Train Station Nearby: Beach is 12 km away",
+        "hotel": "Budget Stay Hostel",
+        "similarity": 0.14254947233849102,
+        "doc_id": 49,
+        "preview": "HOTEL: Budget Stay Hostel LOCATION DETAILS: Address: Backpacker Lane, Near Train Station Nearby: Beach is 12 km away"
+      },
+      {
+        "text": "BREAKFAST INFORMATION: Many hotels offer complimentary breakfast. Types include continental, buffet, and made-to-order options.",
+        "hotel": "General",
+        "similarity": 0.13791400529489217,
+        "doc_id": 107,
+        "preview": "BREAKFAST INFORMATION: Many hotels offer complimentary breakfast. Types include continental, buffet, and made-to-order options."
+      }
+    ],
+    "retrieved_hotels": [
+      "Budget Stay Hostel",
+      "General"
+    ]
+  },
+  {
+    "query": "What time is check-in and check-out?",
+    "answer": "⚠️ Ollama not available. Using fallback mode.\n\nBased on retrieved information:\n\n• Airport Transit Hotel: HOTEL: Airport Transit Hotel POLICIES: - Check-in: Flexible (any time) - Check-out: Flexible (any time) - Cancellation: Free cancellation up to 6 hour...\n• General: CHECK-IN/CHECK-OUT STANDARD: Standard check-in is 2-4 PM. Standard check-out is 10 AM-12 PM. Early check-in may be available upon request....\n• Seaside Paradise Resort: HOTEL: Seaside Paradise Resort POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 48 hours before check-in - ...",
+    "contexts": [
+      {
+        "text": "HOTEL: Airport Transit Hotel POLICIES: - Check-in: Flexible (any time) - Check-out: Flexible (any time) - Cancellation: Free cancellation up to 6 hours before check-in - Pet Policy: Pets not allowed",
+        "hotel": "Airport Transit Hotel",
+        "similarity": 0.47889903677602874,
+        "doc_id": 65,
+        "preview": "HOTEL: Airport Transit Hotel POLICIES: - Check-in: Flexible (any time) - Check-out: Flexible (any time) - Cancellation: Free cancellation up to 6 hours before check-in - Pet Policy: Pets not allowed"
+      },
+      {
+        "text": "CHECK-IN/CHECK-OUT STANDARD: Standard check-in is 2-4 PM. Standard check-out is 10 AM-12 PM. Early check-in may be available upon request.",
+        "hotel": "General",
+        "similarity": 0.45460490846074925,
+        "doc_id": 103,
+        "preview": "CHECK-IN/CHECK-OUT STANDARD: Standard check-in is 2-4 PM. Standard check-out is 10 AM-12 PM. Early check-in may be available upon request."
+      },
+      {
+        "text": "HOTEL: Seaside Paradise Resort POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 48 hours before check-in - Pet Policy: Pets not allowed",
+        "hotel": "Seaside Paradise Resort",
+        "similarity": 0.3046220460652437,
+        "doc_id": 5,
+        "preview": "HOTEL: Seaside Paradise Resort POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 48 hours before check-in - Pet Policy: Pets not allowed"
+      }
+    ],
+    "retrieved_hotels": [
+      "Seaside Paradise Resort",
+      "Airport Transit Hotel",
+      "General"
+    ]
+  }
+]

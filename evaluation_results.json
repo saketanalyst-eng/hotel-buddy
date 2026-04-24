@@ -1,0 +1,43 @@
+[
+  {
+    "query": "Which hotels have free WiFi?",
+    "precision_at_k": 0.3333333333333333,
+    "retrieved": [
+      "Budget Stay Hostel",
+      "Sunny Garden Inn",
+      "Family Fun Resort"
+    ],
+    "expected": [
+      "Seaside Paradise Resort",
+      "City Central Hotel",
+      "Family Fun Resort"
+    ]
+  },
+  {
+    "query": "Hotels near beach",
+    "precision_at_k": 0.0,
+    "retrieved": [
+      "General",
+      "Budget Stay Hostel",
+      "General"
+    ],
+    "expected": [
+      "Seaside Paradise Resort",
+      "Ocean View Villas"
+    ]
+  },
+  {
+    "query": "Pet friendly hotels",
+    "precision_at_k": 0.0,
+    "retrieved": [
+      "General",
+      "Budget Stay Hostel",
+      "General"
+    ],
+    "expected": [
+      "City Central Hotel",
+      "Sunny Garden Inn",
+      "Ocean View Villas"
+    ]
+  }
+]

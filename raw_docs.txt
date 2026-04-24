@@ -1,0 +1,335 @@
+=== DOCUMENT 1 ===
+HOTEL: Seaside Paradise Resort
+DESCRIPTION: Luxury beachfront resort with stunning ocean views. Located just steps from Malibu Beach.
+LOCATION: Coastal Road, Malibu Beach
+DISTANCE TO BEACH: 50 meters
+RATING: 4.7/5
+
+=== DOCUMENT 2 ===
+HOTEL: Seaside Paradise Resort
+AMENITIES: free WiFi, breakfast buffet, pool, spa, parking, beach access
+
+=== DOCUMENT 3 ===
+HOTEL: Seaside Paradise Resort
+POLICIES:
+- Check-in: 3:00 PM
+- Check-out: 11:00 AM
+- Cancellation: Free cancellation up to 48 hours before check-in
+- Pet Policy: Pets not allowed
+
+=== DOCUMENT 4 ===
+HOTEL: Seaside Paradise Resort
+GUEST REVIEWS:
+  - Amazing beach view from the room!
+  - Great breakfast selection
+  - Staff was very friendly
+
+=== DOCUMENT 5 ===
+HOTEL: Seaside Paradise Resort
+LOCATION DETAILS:
+Address: Coastal Road, Malibu Beach
+Nearby: Beach is 50 meters away
+
+=== DOCUMENT 6 ===
+HOTEL: City Central Hotel
+DESCRIPTION: Modern hotel in the heart of downtown. Close to shopping and business district.
+LOCATION: Downtown, 5th Avenue
+DISTANCE TO BEACH: 15 km
+RATING: 4.2/5
+
+=== DOCUMENT 7 ===
+HOTEL: City Central Hotel
+AMENITIES: free WiFi, business center, fitness center, restaurant, room service, free breakfast
+
+=== DOCUMENT 8 ===
+HOTEL: City Central Hotel
+POLICIES:
+- Check-in: 2:00 PM
+- Check-out: 12:00 PM
+- Cancellation: Free cancellation up to 24 hours before check-in
+- Pet Policy: Small pets allowed ($50 fee)
+
+=== DOCUMENT 9 ===
+HOTEL: City Central Hotel
+GUEST REVIEWS:
+  - Perfect for business travelers
+  - Clean rooms, good location
+  - Breakfast could be better
+
+=== DOCUMENT 10 ===
+HOTEL: City Central Hotel
+LOCATION DETAILS:
+Address: Downtown, 5th Avenue
+Nearby: Beach is 15 km away
+
+=== DOCUMENT 11 ===
+HOTEL: Sunny Garden Inn
+DESCRIPTION: Cozy garden hotel with home-like atmosphere. Perfect for families and nature lovers.
+LOCATION: Suburb Heights, Park Street
+DISTANCE TO BEACH: 8 km
+RATING: 4.5/5
+
+=== DOCUMENT 12 ===
+HOTEL: Sunny Garden Inn
+AMENITIES: free WiFi, free breakfast, garden, bicycle rental, free parking
+
+=== DOCUMENT 13 ===
+HOTEL: Sunny Garden Inn
+POLICIES:
+- Check-in: 1:00 PM
+- Check-out: 10:00 AM
+- Cancellation: Free cancellation up to 7 days before check-in
+- Pet Policy: Pets allowed (no extra fee)
+
+=== DOCUMENT 14 ===
+HOTEL: Sunny Garden Inn
+GUEST REVIEWS:
+  - Beautiful garden and peaceful atmosphere
+  - Very reasonable prices
+  - Friendly hosts
+
+=== DOCUMENT 15 ===
+HOTEL: Sunny Garden Inn
+LOCATION DETAILS:
+Address: Suburb Heights, Park Street
+Nearby: Beach is 8 km away
+
+=== DOCUMENT 16 ===
+HOTEL: Luxury Grand Plaza
+DESCRIPTION: 5-star luxury hotel with world-class amenities. Prime waterfront location.
+LOCATION: Waterfront Drive, Marina Bay
+DISTANCE TO BEACH: 200 meters
+RATING: 4.9/5
+
+=== DOCUMENT 17 ===
+HOTEL: Luxury Grand Plaza
+AMENITIES: free high-speed WiFi, premium breakfast, infinity pool, luxury spa, valet parking, concierge, beach shuttle
+
+=== DOCUMENT 18 ===
+HOTEL: Luxury Grand Plaza
+POLICIES:
+- Check-in: 4:00 PM
+- Check-out: 12:00 PM
+- Cancellation: No cancellation within 14 days
+- Pet Policy: Service animals only
+
+=== DOCUMENT 19 ===
+HOTEL: Luxury Grand Plaza
+GUEST REVIEWS:
+  - Absolute luxury experience!
+  - Best hotel I've ever stayed at
+  - Amazing infinity pool overlooking the bay
+
+=== DOCUMENT 20 ===
+HOTEL: Luxury Grand Plaza
+LOCATION DETAILS:
+Address: Waterfront Drive, Marina Bay
+Nearby: Beach is 200 meters away
+
+=== DOCUMENT 21 ===
+HOTEL: Budget Stay Hostel
+DESCRIPTION: Affordable accommodation for budget travelers. Social atmosphere and clean facilities.
+LOCATION: Backpacker Lane, Near Train Station
+DISTANCE TO BEACH: 12 km
+RATING: 4.0/5
+
+=== DOCUMENT 22 ===
+HOTEL: Budget Stay Hostel
+AMENITIES: free WiFi, shared kitchen, lockers, common lounge, free coffee
+
+=== DOCUMENT 23 ===
+HOTEL: Budget Stay Hostel
+POLICIES:
+- Check-in: 11:00 AM
+- Check-out: 10:00 AM
+- Cancellation: Free cancellation up to 24 hours before check-in
+- Pet Policy: No pets allowed
+
+=== DOCUMENT 24 ===
+HOTEL: Budget Stay Hostel
+GUEST REVIEWS:
+  - Great value for money
+  - Clean and friendly
+  - Perfect for backpackers
+
+=== DOCUMENT 25 ===
+HOTEL: Budget Stay Hostel
+LOCATION DETAILS:
+Address: Backpacker Lane, Near Train Station
+Nearby: Beach is 12 km away
+
+=== DOCUMENT 26 ===
+HOTEL: Ocean View Villas
+DESCRIPTION: Luxury private villas perched on the cliffs. Each villa has panoramic ocean views.
+LOCATION: Cliffside Road, Pacific Heights
+DISTANCE TO BEACH: 100 meters
+RATING: 4.8/5
+
+=== DOCUMENT 27 ===
+HOTEL: Ocean View Villas
+AMENITIES: free WiFi, private pool, beach access, parking, fully equipped kitchen, BBQ area
+
+=== DOCUMENT 28 ===
+HOTEL: Ocean View Villas
+POLICIES:
+- Check-in: 3:00 PM
+- Check-out: 11:00 AM
+- Cancellation: Free cancellation up to 30 days before check-in
+- Pet Policy: Pets allowed with deposit
+
+=== DOCUMENT 29 ===
+HOTEL: Ocean View Villas
+GUEST REVIEWS:
+  - Breathtaking ocean views
+  - Perfect for groups
+  - Very private and quiet
+
+=== DOCUMENT 30 ===
+HOTEL: Ocean View Villas
+LOCATION DETAILS:
+Address: Cliffside Road, Pacific Heights
+Nearby: Beach is 100 meters away
+
+=== DOCUMENT 31 ===
+HOTEL: Airport Transit Hotel
+DESCRIPTION: Convenient airport hotel perfect for transit passengers. 24/7 service and airport shuttle.
+LOCATION: Terminal Road, Airport Area
+DISTANCE TO BEACH: 20 km
+RATING: 4.1/5
+
+=== DOCUMENT 32 ===
+HOTEL: Airport Transit Hotel
+AMENITIES: free WiFi, 24-hour reception, shuttle service, basic breakfast, soundproof rooms
+
+=== DOCUMENT 33 ===
+HOTEL: Airport Transit Hotel
+POLICIES:
+- Check-in: Flexible (any time)
+- Check-out: Flexible (any time)
+- Cancellation: Free cancellation up to 6 hours before check-in
+- Pet Policy: Pets not allowed
+
+=== DOCUMENT 34 ===
+HOTEL: Airport Transit Hotel
+GUEST REVIEWS:
+  - Convenient for early flights
+  - Basic but clean
+  - Shuttle service is reliable
+
+=== DOCUMENT 35 ===
+HOTEL: Airport Transit Hotel
+LOCATION DETAILS:
+Address: Terminal Road, Airport Area
+Nearby: Beach is 20 km away
+
+=== DOCUMENT 36 ===
+HOTEL: Mountain View Retreat
+DESCRIPTION: Peaceful retreat in the mountains. Perfect for nature enthusiasts and hikers.
+LOCATION: Hill Top Road, Pine Forest
+DISTANCE TO BEACH: 25 km
+RATING: 4.6/5
+
+=== DOCUMENT 37 ===
+HOTEL: Mountain View Retreat
+AMENITIES: free WiFi, breakfast included, hiking trails, bonfire area, mountain views
+
+=== DOCUMENT 38 ===
+HOTEL: Mountain View Retreat
+POLICIES:
+- Check-in: 2:00 PM
+- Check-out: 11:00 AM
+- Cancellation: Free cancellation up to 14 days before check-in
+- Pet Policy: Pets allowed
+
+=== DOCUMENT 39 ===
+HOTEL: Mountain View Retreat
+GUEST REVIEWS:
+  - Stunning mountain scenery
+  - Great hiking opportunities
+  - Cozy and warm atmosphere
+
+=== DOCUMENT 40 ===
+HOTEL: Mountain View Retreat
+LOCATION DETAILS:
+Address: Hill Top Road, Pine Forest
+Nearby: Beach is 25 km away
+
+=== DOCUMENT 41 ===
+HOTEL: Family Fun Resort
+DESCRIPTION: Resort designed especially for families. Kids stay free and plenty of activities.
+LOCATION: Resort Drive, Kid's Paradise
+DISTANCE TO BEACH: 5 km
+RATING: 4.4/5
+
+=== DOCUMENT 42 ===
+HOTEL: Family Fun Resort
+AMENITIES: free WiFi, free breakfast, children's pool, playground, family rooms, game room, free parking
+
+=== DOCUMENT 43 ===
+HOTEL: Family Fun Resort
+POLICIES:
+- Check-in: 3:00 PM
+- Check-out: 11:00 AM
+- Cancellation: Free cancellation up to 72 hours before check-in
+- Pet Policy: No pets
+
+=== DOCUMENT 44 ===
+HOTEL: Family Fun Resort
+GUEST REVIEWS:
+  - Kids loved the playground
+  - Very family-friendly
+  - Great activities for children
+
+=== DOCUMENT 45 ===
+HOTEL: Family Fun Resort
+LOCATION DETAILS:
+Address: Resort Drive, Kid's Paradise
+Nearby: Beach is 5 km away
+
+=== DOCUMENT 46 ===
+HOTEL: Business Elite Suites
+DESCRIPTION: Premium business hotel with dedicated workspace areas. Located in the financial hub.
+LOCATION: Financial District, Tower Road
+DISTANCE TO BEACH: 18 km
+RATING: 4.7/5
+
+=== DOCUMENT 47 ===
+HOTEL: Business Elite Suites
+AMENITIES: free high-speed WiFi, business lounge, meeting rooms, free breakfast, airport transfer, concierge
+
+=== DOCUMENT 48 ===
+HOTEL: Business Elite Suites
+POLICIES:
+- Check-in: 12:00 PM
+- Check-out: 1:00 PM
+- Cancellation: Free cancellation up to 72 hours before check-in
+- Pet Policy: No pets
+
+=== DOCUMENT 49 ===
+HOTEL: Business Elite Suites
+GUEST REVIEWS:
+  - Perfect for business trips
+  - Excellent workspace facilities
+  - Fast reliable WiFi
+
+=== DOCUMENT 50 ===
+HOTEL: Business Elite Suites
+LOCATION DETAILS:
+Address: Financial District, Tower Road
+Nearby: Beach is 18 km away
+
+=== DOCUMENT 51 ===
+CANCELLATION POLICY STANDARD: Most hotels offer free cancellation. Specific terms vary by hotel. Always check individual hotel policies.
+
+=== DOCUMENT 52 ===
+CHECK-IN/CHECK-OUT STANDARD: Standard check-in is 2-4 PM. Standard check-out is 10 AM-12 PM. Early check-in may be available upon request.
+
+=== DOCUMENT 53 ===
+PET POLICY OVERVIEW: Pet policies vary. Some hotels allow pets with fees, others are pet-free except service animals.
+
+=== DOCUMENT 54 ===
+BREAKFAST INFORMATION: Many hotels offer complimentary breakfast. Types include continental, buffet, and made-to-order options.
+
+=== DOCUMENT 55 ===
+BEACH ACCESS: Hotels listed as 'near beach' are typically within 500 meters. Beach access may be public or private.
+

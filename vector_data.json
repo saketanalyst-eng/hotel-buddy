@@ -1,0 +1,782 @@
+{
+  "chunks": [
+    "DOCUMENT 1",
+    "HOTEL: Seaside Paradise Resort DESCRIPTION: Luxury beachfront resort with stunning ocean views. Located just steps from Malibu Beach. LOCATION: Coastal Road, Malibu Beach DISTANCE TO BEACH: 50 meters RATING: 4.7/5",
+    "DOCUMENT 2",
+    "HOTEL: Seaside Paradise Resort AMENITIES: free WiFi, breakfast buffet, pool, spa, parking, beach access",
+    "DOCUMENT 3",
+    "HOTEL: Seaside Paradise Resort POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 48 hours before check-in - Pet Policy: Pets not allowed",
+    "DOCUMENT 4",
+    "HOTEL: Seaside Paradise Resort GUEST REVIEWS: - Amazing beach view from the room! - Great breakfast selection - Staff was very friendly",
+    "DOCUMENT 5",
+    "HOTEL: Seaside Paradise Resort LOCATION DETAILS: Address: Coastal Road, Malibu Beach Nearby: Beach is 50 meters away",
+    "DOCUMENT 6",
+    "HOTEL: City Central Hotel DESCRIPTION: Modern hotel in the heart of downtown. Close to shopping and business district. LOCATION: Downtown, 5th Avenue DISTANCE TO BEACH: 15 km RATING: 4.2/5",
+    "DOCUMENT 7",
+    "HOTEL: City Central Hotel AMENITIES: free WiFi, business center, fitness center, restaurant, room service, free breakfast",
+    "DOCUMENT 8",
+    "HOTEL: City Central Hotel POLICIES: - Check-in: 2:00 PM - Check-out: 12:00 PM - Cancellation: Free cancellation up to 24 hours before check-in - Pet Policy: Small pets allowed ($50 fee)",
+    "DOCUMENT 9",
+    "HOTEL: City Central Hotel GUEST REVIEWS: - Perfect for business travelers - Clean rooms, good location - Breakfast could be better",
+    "DOCUMENT 10",
+    "HOTEL: City Central Hotel LOCATION DETAILS: Address: Downtown, 5th Avenue Nearby: Beach is 15 km away",
+    "DOCUMENT 11",
+    "HOTEL: Sunny Garden Inn DESCRIPTION: Cozy garden hotel with home-like atmosphere. Perfect for families and nature lovers. LOCATION: Suburb Heights, Park Street DISTANCE TO BEACH: 8 km RATING: 4.5/5",
+    "DOCUMENT 12",
+    "HOTEL: Sunny Garden Inn AMENITIES: free WiFi, free breakfast, garden, bicycle rental, free parking",
+    "DOCUMENT 13",
+    "HOTEL: Sunny Garden Inn POLICIES: - Check-in: 1:00 PM - Check-out: 10:00 AM - Cancellation: Free cancellation up to 7 days before check-in - Pet Policy: Pets allowed (no extra fee)",
+    "DOCUMENT 14",
+    "HOTEL: Sunny Garden Inn GUEST REVIEWS: - Beautiful garden and peaceful atmosphere - Very reasonable prices - Friendly hosts",
+    "DOCUMENT 15",
+    "HOTEL: Sunny Garden Inn LOCATION DETAILS: Address: Suburb Heights, Park Street Nearby: Beach is 8 km away",
+    "DOCUMENT 16",
+    "HOTEL: Luxury Grand Plaza DESCRIPTION: 5-star luxury hotel with world-class amenities. Prime waterfront location. LOCATION: Waterfront Drive, Marina Bay DISTANCE TO BEACH: 200 meters RATING: 4.9/5",
+    "DOCUMENT 17",
+    "HOTEL: Luxury Grand Plaza AMENITIES: free high-speed WiFi, premium breakfast, infinity pool, luxury spa, valet parking, concierge, beach shuttle",
+    "DOCUMENT 18",
+    "HOTEL: Luxury Grand Plaza POLICIES: - Check-in: 4:00 PM - Check-out: 12:00 PM - Cancellation: No cancellation within 14 days - Pet Policy: Service animals only",
+    "DOCUMENT 19",
+    "HOTEL: Luxury Grand Plaza GUEST REVIEWS: - Absolute luxury experience! - Best hotel I've ever stayed at - Amazing infinity pool overlooking the bay",
+    "DOCUMENT 20",
+    "HOTEL: Luxury Grand Plaza LOCATION DETAILS: Address: Waterfront Drive, Marina Bay Nearby: Beach is 200 meters away",
+    "DOCUMENT 21",
+    "HOTEL: Budget Stay Hostel DESCRIPTION: Affordable accommodation for budget travelers. Social atmosphere and clean facilities. LOCATION: Backpacker Lane, Near Train Station DISTANCE TO BEACH: 12 km RATING: 4.0/5",
+    "DOCUMENT 22",
+    "HOTEL: Budget Stay Hostel AMENITIES: free WiFi, shared kitchen, lockers, common lounge, free coffee",
+    "DOCUMENT 23",
+    "HOTEL: Budget Stay Hostel POLICIES: - Check-in: 11:00 AM - Check-out: 10:00 AM - Cancellation: Free cancellation up to 24 hours before check-in - Pet Policy: No pets allowed",
+    "DOCUMENT 24",
+    "HOTEL: Budget Stay Hostel GUEST REVIEWS: - Great value for money - Clean and friendly - Perfect for backpackers",
+    "DOCUMENT 25",
+    "HOTEL: Budget Stay Hostel LOCATION DETAILS: Address: Backpacker Lane, Near Train Station Nearby: Beach is 12 km away",
+    "DOCUMENT 26",
+    "HOTEL: Ocean View Villas DESCRIPTION: Luxury private villas perched on the cliffs. Each villa has panoramic ocean views. LOCATION: Cliffside Road, Pacific Heights DISTANCE TO BEACH: 100 meters RATING: 4.8/5",
+    "DOCUMENT 27",
+    "HOTEL: Ocean View Villas AMENITIES: free WiFi, private pool, beach access, parking, fully equipped kitchen, BBQ area",
+    "DOCUMENT 28",
+    "HOTEL: Ocean View Villas POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 30 days before check-in - Pet Policy: Pets allowed with deposit",
+    "DOCUMENT 29",
+    "HOTEL: Ocean View Villas GUEST REVIEWS: - Breathtaking ocean views - Perfect for groups - Very private and quiet",
+    "DOCUMENT 30",
+    "HOTEL: Ocean View Villas LOCATION DETAILS: Address: Cliffside Road, Pacific Heights Nearby: Beach is 100 meters away",
+    "DOCUMENT 31",
+    "HOTEL: Airport Transit Hotel DESCRIPTION: Convenient airport hotel perfect for transit passengers. 24/7 service and airport shuttle. LOCATION: Terminal Road, Airport Area DISTANCE TO BEACH: 20 km RATING: 4.1/5",
+    "DOCUMENT 32",
+    "HOTEL: Airport Transit Hotel AMENITIES: free WiFi, 24-hour reception, shuttle service, basic breakfast, soundproof rooms",
+    "DOCUMENT 33",
+    "HOTEL: Airport Transit Hotel POLICIES: - Check-in: Flexible (any time) - Check-out: Flexible (any time) - Cancellation: Free cancellation up to 6 hours before check-in - Pet Policy: Pets not allowed",
+    "DOCUMENT 34",
+    "HOTEL: Airport Transit Hotel GUEST REVIEWS: - Convenient for early flights - Basic but clean - Shuttle service is reliable",
+    "DOCUMENT 35",
+    "HOTEL: Airport Transit Hotel LOCATION DETAILS: Address: Terminal Road, Airport Area Nearby: Beach is 20 km away",
+    "DOCUMENT 36",
+    "HOTEL: Mountain View Retreat DESCRIPTION: Peaceful retreat in the mountains. Perfect for nature enthusiasts and hikers. LOCATION: Hill Top Road, Pine Forest DISTANCE TO BEACH: 25 km RATING: 4.6/5",
+    "DOCUMENT 37",
+    "HOTEL: Mountain View Retreat AMENITIES: free WiFi, breakfast included, hiking trails, bonfire area, mountain views",
+    "DOCUMENT 38",
+    "HOTEL: Mountain View Retreat POLICIES: - Check-in: 2:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 14 days before check-in - Pet Policy: Pets allowed",
+    "DOCUMENT 39",
+    "HOTEL: Mountain View Retreat GUEST REVIEWS: - Stunning mountain scenery - Great hiking opportunities - Cozy and warm atmosphere",
+    "DOCUMENT 40",
+    "HOTEL: Mountain View Retreat LOCATION DETAILS: Address: Hill Top Road, Pine Forest Nearby: Beach is 25 km away",
+    "DOCUMENT 41",
+    "HOTEL: Family Fun Resort DESCRIPTION: Resort designed especially for families. Kids stay free and plenty of activities. LOCATION: Resort Drive, Kid's Paradise DISTANCE TO BEACH: 5 km RATING: 4.4/5",
+    "DOCUMENT 42",
+    "HOTEL: Family Fun Resort AMENITIES: free WiFi, free breakfast, children's pool, playground, family rooms, game room, free parking",
+    "DOCUMENT 43",
+    "HOTEL: Family Fun Resort POLICIES: - Check-in: 3:00 PM - Check-out: 11:00 AM - Cancellation: Free cancellation up to 72 hours before check-in - Pet Policy: No pets",
+    "DOCUMENT 44",
+    "HOTEL: Family Fun Resort GUEST REVIEWS: - Kids loved the playground - Very family-friendly - Great activities for children",
+    "DOCUMENT 45",
+    "HOTEL: Family Fun Resort LOCATION DETAILS: Address: Resort Drive, Kid's Paradise Nearby: Beach is 5 km away",
+    "DOCUMENT 46",
+    "HOTEL: Business Elite Suites DESCRIPTION: Premium business hotel with dedicated workspace areas. Located in the financial hub. LOCATION: Financial District, Tower Road DISTANCE TO BEACH: 18 km RATING: 4.7/5",
+    "DOCUMENT 47",
+    "HOTEL: Business Elite Suites AMENITIES: free high-speed WiFi, business lounge, meeting rooms, free breakfast, airport transfer, concierge",
+    "DOCUMENT 48",
+    "HOTEL: Business Elite Suites POLICIES: - Check-in: 12:00 PM - Check-out: 1:00 PM - Cancellation: Free cancellation up to 72 hours before check-in - Pet Policy: No pets",
+    "DOCUMENT 49",
+    "HOTEL: Business Elite Suites GUEST REVIEWS: - Perfect for business trips - Excellent workspace facilities - Fast reliable WiFi",
+    "DOCUMENT 50",
+    "HOTEL: Business Elite Suites LOCATION DETAILS: Address: Financial District, Tower Road Nearby: Beach is 18 km away",
+    "DOCUMENT 51",
+    "CANCELLATION POLICY STANDARD: Most hotels offer free cancellation. Specific terms vary by hotel. Always check individual hotel policies.",
+    "DOCUMENT 52",
+    "CHECK-IN/CHECK-OUT STANDARD: Standard check-in is 2-4 PM. Standard check-out is 10 AM-12 PM. Early check-in may be available upon request.",
+    "DOCUMENT 53",
+    "PET POLICY OVERVIEW: Pet policies vary. Some hotels allow pets with fees, others are pet-free except service animals.",
+    "DOCUMENT 54",
+    "BREAKFAST INFORMATION: Many hotels offer complimentary breakfast. Types include continental, buffet, and made-to-order options.",
+    "DOCUMENT 55",
+    "BEACH ACCESS: Hotels listed as 'near beach' are typically within 500 meters. Beach access may be public or private."
+  ],
+  "metadata": [
+    {
+      "doc_id": 0,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 1..."
+    },
+    {
+      "doc_id": 1,
+      "hotel": "Seaside Paradise Resort",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Seaside Paradise Resort\nDESCRIPTION: Luxury beachfront resort with stunning ocean views. Loca..."
+    },
+    {
+      "doc_id": 2,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 2..."
+    },
+    {
+      "doc_id": 3,
+      "hotel": "Seaside Paradise Resort",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Seaside Paradise Resort\nAMENITIES: free WiFi, breakfast buffet, pool, spa, parking, beach acc..."
+    },
+    {
+      "doc_id": 4,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 3..."
+    },
+    {
+      "doc_id": 5,
+      "hotel": "Seaside Paradise Resort",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Seaside Paradise Resort\nPOLICIES:\n- Check-in: 3:00 PM\n- Check-out: 11:00 AM\n- Cancellation: F..."
+    },
+    {
+      "doc_id": 6,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 4..."
+    },
+    {
+      "doc_id": 7,
+      "hotel": "Seaside Paradise Resort",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Seaside Paradise Resort\nGUEST REVIEWS:\n  - Amazing beach view from the room!\n  - Great breakf..."
+    },
+    {
+      "doc_id": 8,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 5..."
+    },
+    {
+      "doc_id": 9,
+      "hotel": "Seaside Paradise Resort",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Seaside Paradise Resort\nLOCATION DETAILS:\nAddress: Coastal Road, Malibu Beach\nNearby: Beach i..."
+    },
+    {
+      "doc_id": 10,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 6..."
+    },
+    {
+      "doc_id": 11,
+      "hotel": "City Central Hotel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: City Central Hotel\nDESCRIPTION: Modern hotel in the heart of downtown. Close to shopping and ..."
+    },
+    {
+      "doc_id": 12,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 7..."
+    },
+    {
+      "doc_id": 13,
+      "hotel": "City Central Hotel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: City Central Hotel\nAMENITIES: free WiFi, business center, fitness center, restaurant, room se..."
+    },
+    {
+      "doc_id": 14,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 8..."
+    },
+    {
+      "doc_id": 15,
+      "hotel": "City Central Hotel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: City Central Hotel\nPOLICIES:\n- Check-in: 2:00 PM\n- Check-out: 12:00 PM\n- Cancellation: Free c..."
+    },
+    {
+      "doc_id": 16,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 9..."
+    },
+    {
+      "doc_id": 17,
+      "hotel": "City Central Hotel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: City Central Hotel\nGUEST REVIEWS:\n  - Perfect for business travelers\n  - Clean rooms, good lo..."
+    },
+    {
+      "doc_id": 18,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 10..."
+    },
+    {
+      "doc_id": 19,
+      "hotel": "City Central Hotel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: City Central Hotel\nLOCATION DETAILS:\nAddress: Downtown, 5th Avenue\nNearby: Beach is 15 km awa..."
+    },
+    {
+      "doc_id": 20,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 11..."
+    },
+    {
+      "doc_id": 21,
+      "hotel": "Sunny Garden Inn",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Sunny Garden Inn\nDESCRIPTION: Cozy garden hotel with home-like atmosphere. Perfect for famili..."
+    },
+    {
+      "doc_id": 22,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 12..."
+    },
+    {
+      "doc_id": 23,
+      "hotel": "Sunny Garden Inn",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Sunny Garden Inn\nAMENITIES: free WiFi, free breakfast, garden, bicycle rental, free parking..."
+    },
+    {
+      "doc_id": 24,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 13..."
+    },
+    {
+      "doc_id": 25,
+      "hotel": "Sunny Garden Inn",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Sunny Garden Inn\nPOLICIES:\n- Check-in: 1:00 PM\n- Check-out: 10:00 AM\n- Cancellation: Free can..."
+    },
+    {
+      "doc_id": 26,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 14..."
+    },
+    {
+      "doc_id": 27,
+      "hotel": "Sunny Garden Inn",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Sunny Garden Inn\nGUEST REVIEWS:\n  - Beautiful garden and peaceful atmosphere\n  - Very reasona..."
+    },
+    {
+      "doc_id": 28,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 15..."
+    },
+    {
+      "doc_id": 29,
+      "hotel": "Sunny Garden Inn",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Sunny Garden Inn\nLOCATION DETAILS:\nAddress: Suburb Heights, Park Street\nNearby: Beach is 8 km..."
+    },
+    {
+      "doc_id": 30,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 16..."
+    },
+    {
+      "doc_id": 31,
+      "hotel": "Luxury Grand Plaza",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Luxury Grand Plaza\nDESCRIPTION: 5-star luxury hotel with world-class amenities. Prime waterfr..."
+    },
+    {
+      "doc_id": 32,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 17..."
+    },
+    {
+      "doc_id": 33,
+      "hotel": "Luxury Grand Plaza",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Luxury Grand Plaza\nAMENITIES: free high-speed WiFi, premium breakfast, infinity pool, luxury ..."
+    },
+    {
+      "doc_id": 34,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 18..."
+    },
+    {
+      "doc_id": 35,
+      "hotel": "Luxury Grand Plaza",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Luxury Grand Plaza\nPOLICIES:\n- Check-in: 4:00 PM\n- Check-out: 12:00 PM\n- Cancellation: No can..."
+    },
+    {
+      "doc_id": 36,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 19..."
+    },
+    {
+      "doc_id": 37,
+      "hotel": "Luxury Grand Plaza",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Luxury Grand Plaza\nGUEST REVIEWS:\n  - Absolute luxury experience!\n  - Best hotel I've ever st..."
+    },
+    {
+      "doc_id": 38,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 20..."
+    },
+    {
+      "doc_id": 39,
+      "hotel": "Luxury Grand Plaza",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Luxury Grand Plaza\nLOCATION DETAILS:\nAddress: Waterfront Drive, Marina Bay\nNearby: Beach is 2..."
+    },
+    {
+      "doc_id": 40,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 21..."
+    },
+    {
+      "doc_id": 41,
+      "hotel": "Budget Stay Hostel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Budget Stay Hostel\nDESCRIPTION: Affordable accommodation for budget travelers. Social atmosph..."
+    },
+    {
+      "doc_id": 42,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 22..."
+    },
+    {
+      "doc_id": 43,
+      "hotel": "Budget Stay Hostel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Budget Stay Hostel\nAMENITIES: free WiFi, shared kitchen, lockers, common lounge, free coffee..."
+    },
+    {
+      "doc_id": 44,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 23..."
+    },
+    {
+      "doc_id": 45,
+      "hotel": "Budget Stay Hostel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Budget Stay Hostel\nPOLICIES:\n- Check-in: 11:00 AM\n- Check-out: 10:00 AM\n- Cancellation: Free ..."
+    },
+    {
+      "doc_id": 46,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 24..."
+    },
+    {
+      "doc_id": 47,
+      "hotel": "Budget Stay Hostel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Budget Stay Hostel\nGUEST REVIEWS:\n  - Great value for money\n  - Clean and friendly\n  - Perfec..."
+    },
+    {
+      "doc_id": 48,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 25..."
+    },
+    {
+      "doc_id": 49,
+      "hotel": "Budget Stay Hostel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Budget Stay Hostel\nLOCATION DETAILS:\nAddress: Backpacker Lane, Near Train Station\nNearby: Bea..."
+    },
+    {
+      "doc_id": 50,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 26..."
+    },
+    {
+      "doc_id": 51,
+      "hotel": "Ocean View Villas",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Ocean View Villas\nDESCRIPTION: Luxury private villas perched on the cliffs. Each villa has pa..."
+    },
+    {
+      "doc_id": 52,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 27..."
+    },
+    {
+      "doc_id": 53,
+      "hotel": "Ocean View Villas",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Ocean View Villas\nAMENITIES: free WiFi, private pool, beach access, parking, fully equipped k..."
+    },
+    {
+      "doc_id": 54,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 28..."
+    },
+    {
+      "doc_id": 55,
+      "hotel": "Ocean View Villas",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Ocean View Villas\nPOLICIES:\n- Check-in: 3:00 PM\n- Check-out: 11:00 AM\n- Cancellation: Free ca..."
+    },
+    {
+      "doc_id": 56,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 29..."
+    },
+    {
+      "doc_id": 57,
+      "hotel": "Ocean View Villas",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Ocean View Villas\nGUEST REVIEWS:\n  - Breathtaking ocean views\n  - Perfect for groups\n  - Very..."
+    },
+    {
+      "doc_id": 58,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 30..."
+    },
+    {
+      "doc_id": 59,
+      "hotel": "Ocean View Villas",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Ocean View Villas\nLOCATION DETAILS:\nAddress: Cliffside Road, Pacific Heights\nNearby: Beach is..."
+    },
+    {
+      "doc_id": 60,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 31..."
+    },
+    {
+      "doc_id": 61,
+      "hotel": "Airport Transit Hotel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Airport Transit Hotel\nDESCRIPTION: Convenient airport hotel perfect for transit passengers. 2..."
+    },
+    {
+      "doc_id": 62,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 32..."
+    },
+    {
+      "doc_id": 63,
+      "hotel": "Airport Transit Hotel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Airport Transit Hotel\nAMENITIES: free WiFi, 24-hour reception, shuttle service, basic breakfa..."
+    },
+    {
+      "doc_id": 64,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 33..."
+    },
+    {
+      "doc_id": 65,
+      "hotel": "Airport Transit Hotel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Airport Transit Hotel\nPOLICIES:\n- Check-in: Flexible (any time)\n- Check-out: Flexible (any ti..."
+    },
+    {
+      "doc_id": 66,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 34..."
+    },
+    {
+      "doc_id": 67,
+      "hotel": "Airport Transit Hotel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Airport Transit Hotel\nGUEST REVIEWS:\n  - Convenient for early flights\n  - Basic but clean\n  -..."
+    },
+    {
+      "doc_id": 68,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 35..."
+    },
+    {
+      "doc_id": 69,
+      "hotel": "Airport Transit Hotel",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Airport Transit Hotel\nLOCATION DETAILS:\nAddress: Terminal Road, Airport Area\nNearby: Beach is..."
+    },
+    {
+      "doc_id": 70,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 36..."
+    },
+    {
+      "doc_id": 71,
+      "hotel": "Mountain View Retreat",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Mountain View Retreat\nDESCRIPTION: Peaceful retreat in the mountains. Perfect for nature enth..."
+    },
+    {
+      "doc_id": 72,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 37..."
+    },
+    {
+      "doc_id": 73,
+      "hotel": "Mountain View Retreat",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Mountain View Retreat\nAMENITIES: free WiFi, breakfast included, hiking trails, bonfire area, ..."
+    },
+    {
+      "doc_id": 74,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 38..."
+    },
+    {
+      "doc_id": 75,
+      "hotel": "Mountain View Retreat",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Mountain View Retreat\nPOLICIES:\n- Check-in: 2:00 PM\n- Check-out: 11:00 AM\n- Cancellation: Fre..."
+    },
+    {
+      "doc_id": 76,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 39..."
+    },
+    {
+      "doc_id": 77,
+      "hotel": "Mountain View Retreat",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Mountain View Retreat\nGUEST REVIEWS:\n  - Stunning mountain scenery\n  - Great hiking opportuni..."
+    },
+    {
+      "doc_id": 78,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 40..."
+    },
+    {
+      "doc_id": 79,
+      "hotel": "Mountain View Retreat",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Mountain View Retreat\nLOCATION DETAILS:\nAddress: Hill Top Road, Pine Forest\nNearby: Beach is ..."
+    },
+    {
+      "doc_id": 80,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 41..."
+    },
+    {
+      "doc_id": 81,
+      "hotel": "Family Fun Resort",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Family Fun Resort\nDESCRIPTION: Resort designed especially for families. Kids stay free and pl..."
+    },
+    {
+      "doc_id": 82,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 42..."
+    },
+    {
+      "doc_id": 83,
+      "hotel": "Family Fun Resort",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Family Fun Resort\nAMENITIES: free WiFi, free breakfast, children's pool, playground, family r..."
+    },
+    {
+      "doc_id": 84,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 43..."
+    },
+    {
+      "doc_id": 85,
+      "hotel": "Family Fun Resort",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Family Fun Resort\nPOLICIES:\n- Check-in: 3:00 PM\n- Check-out: 11:00 AM\n- Cancellation: Free ca..."
+    },
+    {
+      "doc_id": 86,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 44..."
+    },
+    {
+      "doc_id": 87,
+      "hotel": "Family Fun Resort",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Family Fun Resort\nGUEST REVIEWS:\n  - Kids loved the playground\n  - Very family-friendly\n  - G..."
+    },
+    {
+      "doc_id": 88,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 45..."
+    },
+    {
+      "doc_id": 89,
+      "hotel": "Family Fun Resort",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Family Fun Resort\nLOCATION DETAILS:\nAddress: Resort Drive, Kid's Paradise\nNearby: Beach is 5 ..."
+    },
+    {
+      "doc_id": 90,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 46..."
+    },
+    {
+      "doc_id": 91,
+      "hotel": "Business Elite Suites",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Business Elite Suites\nDESCRIPTION: Premium business hotel with dedicated workspace areas. Loc..."
+    },
+    {
+      "doc_id": 92,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 47..."
+    },
+    {
+      "doc_id": 93,
+      "hotel": "Business Elite Suites",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Business Elite Suites\nAMENITIES: free high-speed WiFi, business lounge, meeting rooms, free b..."
+    },
+    {
+      "doc_id": 94,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 48..."
+    },
+    {
+      "doc_id": 95,
+      "hotel": "Business Elite Suites",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Business Elite Suites\nPOLICIES:\n- Check-in: 12:00 PM\n- Check-out: 1:00 PM\n- Cancellation: Fre..."
+    },
+    {
+      "doc_id": 96,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 49..."
+    },
+    {
+      "doc_id": 97,
+      "hotel": "Business Elite Suites",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Business Elite Suites\nGUEST REVIEWS:\n  - Perfect for business trips\n  - Excellent workspace f..."
+    },
+    {
+      "doc_id": 98,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 50..."
+    },
+    {
+      "doc_id": 99,
+      "hotel": "Business Elite Suites",
+      "chunk_id": 0,
+      "original_doc": "HOTEL: Business Elite Suites\nLOCATION DETAILS:\nAddress: Financial District, Tower Road\nNearby: Beach..."
+    },
+    {
+      "doc_id": 100,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 51..."
+    },
+    {
+      "doc_id": 101,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "CANCELLATION POLICY STANDARD: Most hotels offer free cancellation. Specific terms vary by hotel. Alw..."
+    },
+    {
+      "doc_id": 102,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 52..."
+    },
+    {
+      "doc_id": 103,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "CHECK-IN/CHECK-OUT STANDARD: Standard check-in is 2-4 PM. Standard check-out is 10 AM-12 PM. Early c..."
+    },
+    {
+      "doc_id": 104,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 53..."
+    },
+    {
+      "doc_id": 105,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "PET POLICY OVERVIEW: Pet policies vary. Some hotels allow pets with fees, others are pet-free except..."
+    },
+    {
+      "doc_id": 106,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 54..."
+    },
+    {
+      "doc_id": 107,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "BREAKFAST INFORMATION: Many hotels offer complimentary breakfast. Types include continental, buffet,..."
+    },
+    {
+      "doc_id": 108,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "DOCUMENT 55..."
+    },
+    {
+      "doc_id": 109,
+      "hotel": "General",
+      "chunk_id": 0,
+      "original_doc": "BEACH ACCESS: Hotels listed as 'near beach' are typically within 500 meters. Beach access may be pub..."
+    }
+  ],
+  "num_chunks": 110,
+  "embedding_shape": [
+    110,
+    330
+  ],
+  "embedding_type": "tfidf"
+}
